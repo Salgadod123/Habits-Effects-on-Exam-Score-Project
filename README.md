@@ -15,7 +15,7 @@
 
 ##  Files Included
 - `SQL Prac.ipynb`: Notebook with all SQL queries and commentary
-- `habvsper.db`: Dataset used for analysis
+- `student_habits_performance.csv`: Dataset used for analysis
 - `top_scorers.xlsx`: Filtered data from original dataset 
 
 ##  View the Dashboard
