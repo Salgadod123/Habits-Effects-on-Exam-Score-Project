@@ -19,7 +19,7 @@
 - `top_scorers.xlsx`: Filtered data from original dataset 
 
 ##  View the Dashboard
-📈 [Click here to view the interactive Tableau dashboard](https://public.tableau.com/app/profile/david.salgado4874/viz/HabitsEffectsonExamScore/Story1)
+ [Click here to view the interactive Tableau dashboard](https://public.tableau.com/app/profile/david.salgado4874/viz/HabitsEffectsonExamScore/Story1)
 
 ##  Summary
 This project demonstrates how SQL can be used to drive insightful analysis, and how Tableau can communicate those insights through clear and interactive visuals. Its a part of my data analytics portfolio to showcase end-to-end analytical thinking and visualization skills.
